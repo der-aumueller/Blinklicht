@@ -13,3 +13,4 @@ void loop() {
   digitalWrite(led1,LOW); //setze LED 1 auf low
   digitalWrite(led2,HIGH); //setze LED 2 gleichzeitig auf high
   delay(1000); //warte 1000ms (1sek)
+}
